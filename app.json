@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "todo_example",
+    "name": "GWANG TO DO",
+    "description": "To Do App made with React Native based on 'Nomad Coders'",
     "slug": "todo-app",
     "privacy": "public",
     "sdkVersion": "32.0.0",
