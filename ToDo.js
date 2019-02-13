@@ -37,6 +37,7 @@ export default class ToDo extends Component{
                             onChangeText={this._controllInput}
                             onBlur={this._finishEditing}
                             returnKeyType={"done"}
+                            underlineColorAndroid={"transparent"}
                         />
                     ) : (
                         <Text style={[styles.text, isCompleted ? styles.completedText : styles.uncompletedText]}>
